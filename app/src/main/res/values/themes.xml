@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.CameraViewerTV" parent="@style/Theme.Leanback" />
+</resources>
